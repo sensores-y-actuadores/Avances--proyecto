@@ -15,10 +15,8 @@ Este proyecto tiene como propósito la construcción de un modelo a escala de un
 
 La estructura de nuestro parqueadero giratorio imitará aquella de una rueda de la fortuna, en la cual cada canasta será reemplazada por un espacio para guardar un auto, y esta al usar también el espacio de arriba podrá aumentar la capacidad de autos que se pueden guardar en un solo espacio de un parqueadero convencional.  En principio se planea implementar una rueda con 4 espacios, pero se podrá aumentar la capacidad de vehículos que se pueden guardar en un solo mecanismo en versiones posteriores con estructuras mucho más optimizadas.. 
 
-![Reueda de la fortuna](![ferris-wheel-2575709_1280](https://user-images.githubusercontent.com/125460544/234591301-9df6075f-3c03-4f0c-b201-f847ae89fe5d.jpg)
-)
+![Crepe](![ferris-wheel-2575709_1280](https://user-images.githubusercontent.com/125460544/234591610-fc6bb386-a5b5-4b7c-beda-7c77d46cfbe7.jpg))
 
-It can also be centered!
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 

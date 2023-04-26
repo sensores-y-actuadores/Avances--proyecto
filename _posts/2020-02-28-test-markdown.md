@@ -1,32 +1,21 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Introducción
+subtitle: Propósito del proyecto 
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
-
-**Here is some bold text**
-
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+Este proyecto tiene como propósito la construcción de un modelo a escala de un parqueadero giratorio que funciona a base de energía renovable, la idea con este proyecto es crear una alternativa para la optimización del espacio en las calles, pues en ocasiones los parqueaderos convencionales no son la opción más rentable debido al desorden que se pueden generar en ellos.
 
 
-How about a yummy crepe?
+## La idea 
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+La estructura de nuestro parqueadero giratorio imitará aquella de una rueda de la fortuna, en la cual cada canasta será reemplazada por un espacio para guardar un auto, y esta al usar también el espacio de arriba podrá aumentar la capacidad de autos que se pueden guardar en un solo espacio de un parqueadero convencional.  En principio se planea implementar una rueda con 4 espacios, pero se podrá aumentar la capacidad de vehículos que se pueden guardar en un solo mecanismo en versiones posteriores con estructuras mucho más optimizadas.. 
+
+![Crepe]([https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Fvector-premium%2Frueda-fortuna-parque-atracciones-ilustracion-vector-estilo-plano-aislado-sobre-fondo-blanco_18802560.htm&psig=AOvVaw14cqe357WgnCbL8FbgEFdm&ust=1682601843806000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCNi0jNHQx_4CFQAAAAAdAAAAABAD))
 
 It can also be centered!
 

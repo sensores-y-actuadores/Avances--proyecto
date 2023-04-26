@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
+title: Palnteamiento y construcción 
+subtitle: Prototipo en construcción… 
+cover-img: /assets/img/![prototipo](https://user-images.githubusercontent.com/125460544/234602719-ee9aa20d-11a9-42f5-b07e-e39cb6d166fc.jpg)
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]

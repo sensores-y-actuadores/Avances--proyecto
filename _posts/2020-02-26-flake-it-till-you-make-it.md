@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Palnteamiento y construcción 
+title: Planteamiento y construcción 
 subtitle: Prototipo en desarrollo… 
 
 ---
